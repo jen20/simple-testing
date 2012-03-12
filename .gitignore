@@ -1,8 +1,6 @@
 obj
 bin
 *.csproj.user
-*ReSharper*
-*resharper*
 *.suo
 *.dotcover
 *.cache
